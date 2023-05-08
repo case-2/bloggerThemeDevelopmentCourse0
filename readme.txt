@@ -1,1 +1,1 @@
-link to the course used as guide : https://youtube.com/playlist?list=PLlqmJM8g9yiqTFeqrGFGCH_Nd6I81NH62
+link to the online course I used as guide : https://youtube.com/playlist?list=PLlqmJM8g9yiqTFeqrGFGCH_Nd6I81NH62

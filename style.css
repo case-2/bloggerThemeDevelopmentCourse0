@@ -238,3 +238,56 @@ h2::after{
   font-size: 16px;
 }
 
+/* footer */
+footer{
+  background: #000;
+  color: #fcfcfc;
+  padding: 36px;
+}
+
+footer a{
+  color: #fcfcfc;
+  text-decoration: none;
+}
+
+footer a:hover{
+  text-decoration: underline;
+}
+
+footer .footer-container{
+  display: flex;
+  justify-content: space-around;
+}
+
+footer .footer-left{
+  align-self: center;
+}
+
+footer ul{
+  list-style: none;
+  margin-top: 16px;
+}
+
+footer ul li{
+  margin: 12px 8px;
+}
+
+footer .social-icons{
+  margin-top: 20px;
+  background: #111;
+  padding: 10px;
+  max-width: 260px;
+  border-radius: 10px;
+}
+
+footer .social-icons img{
+  margin: 0 20px;
+}
+
+footer .social-icons a{
+  text-decoration: none;
+}
+
+footer .footer-right p{
+  margin-top: 20px;
+}
